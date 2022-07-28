@@ -1,5 +1,5 @@
 # PROJETO - FONTE REGULADORA DE TENSÃO
-Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computação](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao#passarinho-experto-a-prova-de-recupera%C3%A7%C3%A3o-ser%C3%A1-explicar-o-que-aconteceu) ministrada no ICMC-USP, tem por objetivo apresentar as etapas de eleaboração de uma fonte de tensão ajustável de 3v à 12v e que possui capacidade de 100mA.
+Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computação](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao#passarinho-experto-a-prova-de-recupera%C3%A7%C3%A3o-ser%C3%A1-explicar-o-que-aconteceu) ministrada pelo professor Eduardo do Valle Simoes no ICMC-USP, tem por objetivo apresentar as etapas de eleaboração de uma fonte de tensão ajustável de 3v à 12v e que possui capacidade de 100mA.
 
 ## Tabela de Componentes
 
@@ -19,10 +19,16 @@ Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computa
 |   Total    |                          |       R$40,10        |
 
 ## Circuito no Falstad
+Clique [aqui] para acessar ao circuito.
 
 ## Circuito no Eagle
 
+## Cálculos
+
+## Imagens da Protoboard com o Circuito Montado
+
 ## Vídeo Explicativo
+Clique [aqui] para assistir ao vídeo explicativo acerca dos cálculos feitos para a elaboração do projeto e do circuito no Falstad, bem como para ver a fonte em funcionamento.
 
 ## Grupo
   - Bruna Romero Arraes
