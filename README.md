@@ -3,7 +3,7 @@ Este projeto tem por objetivo apresentar as etapas de eleaboração de uma fonte
 
 # Grupo
 
-# Escolha dos componentes
+# Escolha dos Componentes
 
 # Circuito no Falstad
 
