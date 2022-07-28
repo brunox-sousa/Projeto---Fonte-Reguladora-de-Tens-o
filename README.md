@@ -9,4 +9,4 @@ Este projeto tem por objetivo apresentar as etapas de eleaboração de uma fonte
 
 # Circuito no Eagle
 
-# Vídeo explicativo
+# Vídeo Explicativo
