@@ -22,7 +22,7 @@ Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computa
 Clique [aqui] para acessar o simulador do circuito.
 
 ## Circuito no Eagle
-###### esquemático
+###### ESQUEMÁTICO
 ###### PCB
 
 ## Cálculos
