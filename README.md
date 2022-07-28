@@ -11,7 +11,7 @@ Este projeto tem por objetivo apresentar as etapas de eleaboração de uma fonte
 
 | Quantidade |        Componente        |         Preço        |
 |------------|--------------------------|----------------------|
-|     10     | Diodo Retificador 1N4007 | R$0,20 x 10 = R$2,00 |
+|      4     | Diodo Retificador 1N4007 |  R$0,20 x 4 = R$0,80 |
 |      1     |    Capacitor 560uF/250v  |       R$25,73        |
 |      1     |  LED 5mm Vermelho Difuso |        R$0,50        |
 |     10     |       Resistor 1k        | R$0,07 x 10 = R$0,70 |
@@ -22,7 +22,7 @@ Este projeto tem por objetivo apresentar as etapas de eleaboração de uma fonte
 |      1     |   Transistor NPN BC337   |        R$0,69        |
 |      1     |          Fusível         |        R$1,30        |
 |      1     |         Varistor         |        R$1,50        |
-|   Total    |                          |       R$41,30        |
+|   Total    |                          |       R$40,10        |
 
 ## Circuito no Falstad
 
