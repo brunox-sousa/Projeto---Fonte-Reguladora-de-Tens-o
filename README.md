@@ -19,7 +19,7 @@ Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computa
 |   Total    |                          |       R$40,10        |
 
 ## Circuito no Falstad
-Clique [aqui] para acessar ao circuito.
+Clique [aqui] para acessar o simulador do circuito.
 
 ## Circuito no Eagle
 
