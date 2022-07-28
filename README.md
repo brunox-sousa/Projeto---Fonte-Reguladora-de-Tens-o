@@ -1,11 +1,5 @@
 # PROJETO - FONTE REGULADORA DE TENSÃO
-Este projeto tem por objetivo apresentar as etapas de eleaboração de uma fonte de tensão ajustável de 3v à 12v e que possua capacidade de 100mA.
-
-## Grupo
-  - Bruna Romero Arraes
-  - Bruno Santos de Sousa
-  - Johana J. Pizarro Laquise
-  - Livia Rosito Reis dos Santos
+Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computação](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao#passarinho-experto-a-prova-de-recupera%C3%A7%C3%A3o-ser%C3%A1-explicar-o-que-aconteceu) ministrada no ICMC-USP, tem por objetivo apresentar as etapas de eleaboração de uma fonte de tensão ajustável de 3v à 12v e que possui capacidade de 100mA.
 
 ## Tabela de Componentes
 
@@ -29,3 +23,9 @@ Este projeto tem por objetivo apresentar as etapas de eleaboração de uma fonte
 ## Circuito no Eagle
 
 ## Vídeo Explicativo
+
+## Grupo
+  - Bruna Romero Arraes
+  - Bruno Santos de Sousa
+  - Johana J. Pizarro Laquise
+  - Livia Rosito Reis dos Santos
