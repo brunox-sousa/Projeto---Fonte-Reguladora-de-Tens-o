@@ -2,12 +2,28 @@
 Este projeto tem por objetivo apresentar as etapas de eleaboração de uma fonte de tensão ajustável de 3v à 12v e que possua capacidade de 100mA.
 
 ## Grupo
-  Bruna Romero Arraes
-  Bruno Santos de Sousa
-  Johana J. Pizarro Laquise
-  Livia Rosito Reis dos Santos
+  - Bruna Romero Arraes
+  - Bruno Santos de Sousa
+  - Johana J. Pizarro Laquise
+  - Livia Rosito Reis dos Santos
 
-## Lista de Componentes
+## Tabela de Componentes
+
+| Quantidade | Compontente | Preço |
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
+|------------|-------------|-------|
 
 ## Circuito no Falstad
 
