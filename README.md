@@ -33,7 +33,7 @@ Clique [aqui] para acessar o simulador do circuito.
 Clique [aqui] para assistir ao vídeo explicativo acerca dos cálculos feitos para a elaboração do projeto e do circuito no Falstad, bem como para ver a fonte em funcionamento.
 
 ## Grupo
-  - Bruna Romero Arraes
+  - [Bruna Romero Arraes](https://github.com/bruromero)
   - [Bruno Santos de Sousa](https://github.com/brunox-sousa)
   - [Johana J. Pizarro Laquise](https://github.com/JohanaPizarroL)
   - Livia Rosito Reis dos Santos
