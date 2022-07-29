@@ -6,7 +6,7 @@ Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computa
 | Quantidade |        Componente        |         Preço        |
 |------------|--------------------------|----------------------|
 |      4     | Diodo Retificador 1N4007 |  R$0,20 x 4 = R$0,80 |
-|      1     |    Capacitor 560uF/250v  |       R$25,73        |
+|      1     |    Capacitor 560uF/25v   |       R$25,73        |
 |      1     |  LED 5mm Vermelho Difuso |        R$0,50        |
 |     10     |       Resistor 1k        | R$0,07 x 10 = R$0,70 |
 |     10     |       Resistor 2k        | R$0,07 x 10 = R$0,70 |
@@ -17,6 +17,16 @@ Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computa
 |      1     |          Fusível         |        R$1,30        |
 |      1     |         Varistor         |        R$1,50        |
 |   Total    |                          |       R$40,10        |
+
+## Componentes - Funções
+###### Ponte de Diodo Retificador: Elaborada a partir de quatro diodos, essa estrutura funciona como um circuito que converte uma corrente alternada (valor da tensão varia entre positivo e negativo) em corrente contínua (valor da tensão se mantém positivo), de modo a torná-la útil para o funcionamento de diferentes aparelhos;
+###### Capacitor:
+###### LED:
+###### Resistores:
+###### Potenciômetro:
+###### Diodo Zener:
+###### Transistor
+
 
 ## Circuito no Falstad
 Clique [aqui] para acessar o simulador do circuito.
