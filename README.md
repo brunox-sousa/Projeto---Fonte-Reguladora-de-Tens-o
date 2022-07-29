@@ -33,8 +33,8 @@ Elaborada a partir de quatro diodos, essa estrutura funciona como um circuito qu
 Clique [aqui] para acessar o simulador do circuito.
 
 ## Circuito no Eagle
-### ESQUEMÁTICO
-### PCB
+#### ESQUEMÁTICO
+#### PCB
 
 ## Cálculos
 
