@@ -19,22 +19,22 @@ Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computa
 |   Total    |                          |       R$40,10        |
 
 ## Componentes - Funções
-###### Ponte de Diodo Retificador:
+### Ponte de Diodo Retificador:
 Elaborada a partir de quatro diodos, essa estrutura funciona como um circuito que converte uma corrente alternada (valor da tensão varia entre positivo e negativo) em corrente contínua (valor da tensão se mantém positivo), de modo a torná-la útil para o funcionamento de diferentes aparelhos;
 ### Capacitor:
-###### LED:
-###### Resistores:
-###### Potenciômetro:
-###### Diodo Zener:
-###### Transistor
+### LED:
+### Resistores:
+### Potenciômetro:
+### Diodo Zener:
+### Transistor
 
 
 ## Circuito no Falstad
 Clique [aqui] para acessar o simulador do circuito.
 
 ## Circuito no Eagle
-###### ESQUEMÁTICO
-###### PCB
+### ESQUEMÁTICO
+### PCB
 
 ## Cálculos
 
