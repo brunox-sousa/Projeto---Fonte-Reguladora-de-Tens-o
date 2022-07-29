@@ -36,4 +36,4 @@ Clique [aqui] para assistir ao vídeo explicativo acerca dos cálculos feitos pa
   - [Bruna Romero Arraes](https://github.com/bruromero)
   - [Bruno Santos de Sousa](https://github.com/brunox-sousa)
   - [Johana J. Pizarro Laquise](https://github.com/JohanaPizarroL)
-  - Livia Rosito Reis dos Santos
+  - [Livia Rosito Reis dos Santos](https://github.com/liviarosito)
