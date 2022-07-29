@@ -22,6 +22,7 @@ Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computa
 ### Ponte de Diodo Retificador:
 Elaborada a partir de quatro diodos, essa estrutura funciona como um circuito que converte uma corrente alternada (valor da tensão varia entre positivo e negativo) em corrente contínua (valor da tensão se mantém positivo), de modo a torná-la útil para o funcionamento de diferentes aparelhos;
 ### Capacitor:
+Dispositivo cuja principal função consiste em armazenar cargas elétricas, de maneira a armazenar elétrons quando a tensão sobe e liberá-los para o restante do circuito quando a tensão desce. Esse processo auxilia na diminuição da taxa de ripple;
 ### LED:
 ### Resistores:
 ### Potenciômetro:
