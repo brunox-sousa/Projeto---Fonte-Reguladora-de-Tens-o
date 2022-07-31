@@ -38,6 +38,7 @@ Clique [aqui] para acessar o simulador do circuito.
 ![image](https://user-images.githubusercontent.com/110194295/182027842-3a6b480c-c10b-42d0-bb2b-19c50572bc6b.png)
 
 #### PCB
+![image](https://user-images.githubusercontent.com/110194295/182030853-5d581b0e-c9d9-4b6b-b924-e94b15dfa838.png)
 
 ## Cálculos
 
