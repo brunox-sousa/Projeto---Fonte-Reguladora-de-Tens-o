@@ -25,7 +25,8 @@ Dispositivo cuja principal função consiste em armazenar cargas elétricas, de 
 Auxilia no funcionamento do circuito - indica se a fonte a fonte está ligada;
 ### Resistores:
 Limitam a passagem (intensidade) de corrente elétrica a fim de evitar a danificação dos componentes do circuito;
-### Potenciômetro: permite a variação do valor resistivo pelo movimento de um eixo, possibilitando o ajuste do controle da tensão dentro do circuito entre 3V e 12V;
+### Potenciômetro:
+Permite a variação do valor resistivo pelo movimento de um eixo, possibilitando o ajuste do controle da tensão dentro do circuito entre 3V e 12V;
 ### Diodo Zener:
 Utilizado no ajuste de tensão de ruptura do circuito.  Quando está polarizado diretamente, funciona como outro diodo qualquer, ou seja, não conduz corrente elétrica enquanto a tensão aplicada aos seus terminais for acima de 13V;
 ### Transistor:
