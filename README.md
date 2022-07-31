@@ -6,7 +6,7 @@
 | Quantidade |        Componente        |         Preço        |
 |------------|--------------------------|----------------------|
 |      4     | Diodo Retificador 1N4007 |  R$0,20 x 4 = R$0,80 |
-|      1     |    Capacitor 560uF/25v   |       R$25,73        |
+|      1     |    Capacitor 560uF/25v   |       R$00,00        |
 |      1     |  LED 5mm Vermelho Difuso |        R$0,50        |
 |     10     |       Resistor 1k        | R$0,07 x 10 = R$0,70 |
 |     10     |       Resistor 2k        | R$0,07 x 10 = R$0,70 |
@@ -14,21 +14,22 @@
 |      1     |      Potenciômetro       |        R$7,00        |
 |      1     |  Diodo Zener 13v 1N4743  |        R$0,48        |
 |      1     |   Transistor NPN BC337   |        R$0,69        |
-|      1     |          Fusível         |        R$1,30        |
-|      1     |         Varistor         |        R$1,50        |
-|   Total    |                          |       R$40,10        |
+|   Total    |                          |       R$00,00        |
 
 ## Componentes - Funções
 ### Ponte de Diodo Retificador:
 Elaborada a partir de quatro diodos, essa estrutura funciona como um circuito que converte uma corrente alternada (valor da tensão varia entre positivo e negativo) em corrente contínua (valor da tensão se mantém positivo), de modo a torná-la útil para o funcionamento de diferentes aparelhos;
 ### Capacitor:
-Dispositivo cuja principal função consiste em armazenar cargas elétricas, de maneira a armazenar elétrons quando a tensão sobe e liberá-los para o restante do circuito quando a tensão desce. Esse processo auxilia na diminuição da taxa de ripple;
-### LED:
+Dispositivo cuja principal função consiste em armazenar cargas elétricas, de maneira a armazenar elétrons quando a tensão sobe e liberá-los para o restante do circuito quando a tensão desce (libera corrente quando a tensão interna é menor que a tensão da sua própria estrutura). Esse processo auxilia na diminuição da taxa de ripple;
+###LED:
+Auxilia no funcionamento do circuito - indica se a fonte a fonte está ligada;
 ### Resistores:
-### Potenciômetro:
+Limitam a passagem (intensidade) de corrente elétrica a fim de evitar a danificação dos componentes do circuito;
+### Potenciômetro: permite a variação do valor resistivo pelo movimento de um eixo, possibilitando o ajuste do controle da tensão dentro do circuito entre 3V e 12V;
 ### Diodo Zener:
-### Transistor
-
+Utilizado no ajuste de tensão de ruptura do circuito.  Quando está polarizado diretamente, funciona como outro diodo qualquer, ou seja, não conduz corrente elétrica enquanto a tensão aplicada aos seus terminais for acima de 13V;
+### Transistor:
+Utilizado para amplificar ou atenuar a intensidade da corrente elétrica em circuitos.
 
 ## Circuito no Falstad
 Clique [aqui] para acessar o simulador do circuito.
