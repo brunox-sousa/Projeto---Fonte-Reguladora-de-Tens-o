@@ -35,7 +35,7 @@ Clique [aqui] para acessar o simulador do circuito.
 
 ## Circuito no Eagle
 #### ESQUEMÁTICO
-![image](https://user-images.githubusercontent.com/110194295/182012154-5b145ea3-5bd2-4dce-97b6-6ffa41fabbcd.png)
+![image](https://user-images.githubusercontent.com/110194295/182027842-3a6b480c-c10b-42d0-bb2b-19c50572bc6b.png)
 
 #### PCB
 
