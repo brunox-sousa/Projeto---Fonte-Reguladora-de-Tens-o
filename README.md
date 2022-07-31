@@ -6,7 +6,7 @@
 | Quantidade |        Componente        |         Preço        |
 |------------|--------------------------|----------------------|
 |      4     | Diodo Retificador 1N4007 |  R$0,20 x 4 = R$0,80 |
-|      1     |    Capacitor 560uF/25v   |       R$00,00        |
+|      1     |    Capacitor 560uF/25v   |        R$1,05        |
 |      1     |  LED 5mm Vermelho Difuso |        R$0,50        |
 |     10     |       Resistor 1k        | R$0,07 x 10 = R$0,70 |
 |     10     |       Resistor 2.2k      | R$0,07 x 10 = R$0,70 |
