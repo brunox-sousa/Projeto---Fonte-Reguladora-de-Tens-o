@@ -9,7 +9,7 @@
 |      1     |    Capacitor 560uF/25v   |       R$00,00        |
 |      1     |  LED 5mm Vermelho Difuso |        R$0,50        |
 |     10     |       Resistor 1k        | R$0,07 x 10 = R$0,70 |
-|     10     |       Resistor 2k        | R$0,07 x 10 = R$0,70 |
+|     10     |       Resistor 2.2k      | R$0,07 x 10 = R$0,70 |
 |     10     |       Resistor 120       | R$0,07 x 10 = R$0,70 |
 |      1     |      Potenciômetro       |        R$7,00        |
 |      1     |  Diodo Zener 13v 1N4743  |        R$0,48        |
