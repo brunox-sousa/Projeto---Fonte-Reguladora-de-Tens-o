@@ -40,6 +40,9 @@ Clique [aqui] para acessar o simulador do circuito.
 #### PCB
 ![image](https://user-images.githubusercontent.com/110194295/182030894-70d9658b-b65b-4af7-95b9-fdeca1006a37.png)
 
+##### PCB - PARTE INFERIOR DA PLACA (vista de cima)
+![image](https://user-images.githubusercontent.com/110194295/182031445-7071f1e0-931d-4d46-948a-9da50dea3c7e.png)
+
 ## Cálculos
 
 ## Imagens da Protoboard com o Circuito Montado
