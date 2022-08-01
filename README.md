@@ -73,7 +73,8 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 ![20220731_190105](https://user-images.githubusercontent.com/102570129/182055705-d1603daa-b353-4b3b-9344-5467e9f531fc.jpg)
 
 ## Vídeo Explicativo
-Clique [aqui] para assistir ao vídeo explicativo acerca dos cálculos feitos para a elaboração do projeto e do circuito no Falstad, bem como para ver a fonte em funcionamento.
+![image](https://user-images.githubusercontent.com/110194295/182183682-81e2761e-01ba-4ab8-a5a4-055e92e36033.png)
+Clique [aqui](https://www.youtube.com/watch?v=eEh-RMIG-vI) para assistir ao vídeo explicativo acerca dos cálculos feitos para a elaboração do projeto e do circuito no Falstad, bem como para ver a fonte em funcionamento.
 
 ## Grupo
   - [Bruna Romero Arraes](https://github.com/bruromero)
