@@ -47,12 +47,19 @@ Clique [aqui] para acessar o simulador do circuito.
 
 ## Cálculos
 ![image](https://user-images.githubusercontent.com/110194295/182062733-424f7300-8b65-4b87-83dc-28815466f454.png)
+
 ![image](https://user-images.githubusercontent.com/110194295/182062795-dbb1f197-3781-4426-8972-95e1a8302b59.png)
+
 ![image](https://user-images.githubusercontent.com/110194295/182062844-801c1442-2378-4a80-b296-a1b4dfeb2987.png)
+
 ![image](https://user-images.githubusercontent.com/110194295/182062882-c6d2f7b5-be3c-444d-9eeb-636303889e4d.png)
+
 ![image](https://user-images.githubusercontent.com/110194295/182062938-5bca1e00-affa-4714-a9d4-b5c86aca256e.png)
+
 ![image](https://user-images.githubusercontent.com/110194295/182062960-e11ce317-69ef-482b-a0a4-4e72ffa0e95e.png)
+
 ![image](https://user-images.githubusercontent.com/110194295/182063082-70365d61-22fe-4733-8033-bd3c659df753.png)
+
 ![image](https://user-images.githubusercontent.com/110194295/182063142-ee391f97-7702-45a4-a69b-a15086605860.png)
 
 ## Imagens da Protoboard com o Circuito Montado
