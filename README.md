@@ -48,6 +48,10 @@ Clique [aqui] para acessar o simulador do circuito.
 ## Cálculos
 
 ## Imagens da Protoboard com o Circuito Montado
+![20220731_181348](https://user-images.githubusercontent.com/102570129/182054968-985940d6-9b80-48c1-acee-eb616a9a944a.jpg)
+![20220731_181333](https://user-images.githubusercontent.com/102570129/182055083-e05aca17-5829-42e1-b606-c6084b62087b.jpg)
+![20220731_190105](https://user-images.githubusercontent.com/102570129/182055129-e7384ae0-3947-4d0e-abfa-211330c5164e.jpg)
+![20220731_190225](https://user-images.githubusercontent.com/102570129/182055172-47f3e9c4-d8d2-430d-a495-0fe2998bde1b.jpg)
 
 ## Vídeo Explicativo
 Clique [aqui] para assistir ao vídeo explicativo acerca dos cálculos feitos para a elaboração do projeto e do circuito no Falstad, bem como para ver a fonte em funcionamento.
