@@ -8,13 +8,13 @@
 |      4     | Diodo Retificador 1N4007 |  R$0,20 x 4 = R$0,80 |
 |      1     |    Capacitor 560uF/25v   |        R$1,05        |
 |      1     |  LED 5mm Vermelho Difuso |        R$0,50        |
-|     10     |       Resistor 1k        | R$0,07 x 10 = R$0,70 |
-|     10     |       Resistor 2.2k      | R$0,07 x 10 = R$0,70 |
-|     10     |       Resistor 120       | R$0,07 x 10 = R$0,70 |
-|      1     |      Potenciômetro       |        R$7,00        |
+|      3     |       Resistor 1k        |  R$0,07 x 3 = R$0,21 |
+|      2     |       Resistor 2.2k      |  R$0,07 x 2 = R$0,14 |
+|      1     |       Resistor 120       |        R$0,07        |
+|      1     |    Potenciômetro 10k     |        R$7,00        |
 |      1     |  Diodo Zener 13v 1N4743  |        R$0,48        |
 |      1     |   Transistor NPN BC337   |        R$0,69        |
-|   Total    |                          |       R$00,00        |
+|   Total    |                          |       R$10,94        |
 
 ## Componentes - Funções
 ### Ponte de Diodo Retificador:
