@@ -42,6 +42,7 @@ Clique [aqui] para acessar o simulador do circuito.
 #### PCB
 ![image](https://user-images.githubusercontent.com/110194295/182030894-70d9658b-b65b-4af7-95b9-fdeca1006a37.png)
 ![image](https://user-images.githubusercontent.com/110194295/182066997-96c43b07-4887-4e5e-9f3e-a95581a1e726.png)
+![image](https://user-images.githubusercontent.com/110194295/182067269-a95f9d6e-38e3-462a-8339-d39828feb2da.png)
 
 ##### PCB - PARTE INFERIOR DA PLACA (visto de baixo/espelhado)
 ![image](https://user-images.githubusercontent.com/110194295/182032220-3c0c380b-916b-4055-a38d-6e59ba4621fd.png)
