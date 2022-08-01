@@ -38,10 +38,10 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 
 ## Circuito no Eagle
 #### ESQUEMÁTICO
-![image](https://user-images.githubusercontent.com/110194295/182068025-0e98c982-2539-4cbf-b17a-f03961d0494c.png)
+![image](https://user-images.githubusercontent.com/110194295/182173824-c7ec1ec5-741a-4eab-8ed7-2a1ab1dd1761.png)
 
 #### PCB
-![image](https://user-images.githubusercontent.com/110194295/182067269-a95f9d6e-38e3-462a-8339-d39828feb2da.png)
+![image](https://user-images.githubusercontent.com/110194295/182174019-e9dbed4d-d0ef-4175-9fda-b5d5b8ad4200.png)
 
 ##### PCB - PARTE INFERIOR DA PLACA (visto de baixo/espelhado)
 ![image](https://user-images.githubusercontent.com/110194295/182032220-3c0c380b-916b-4055-a38d-6e59ba4621fd.png)
