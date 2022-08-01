@@ -74,6 +74,7 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 
 ## Vídeo Explicativo
 ![image](https://user-images.githubusercontent.com/110194295/182183682-81e2761e-01ba-4ab8-a5a4-055e92e36033.png)
+
 Clique [aqui](https://www.youtube.com/watch?v=eEh-RMIG-vI) para assistir ao vídeo explicativo acerca dos cálculos feitos para a elaboração do projeto e do circuito no Falstad, bem como para ver a fonte em funcionamento.
 
 ## Grupo
