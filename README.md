@@ -33,7 +33,8 @@ Utilizado no ajuste de tensão de ruptura do circuito.  Quando está polarizado 
 Utilizado para amplificar ou atenuar a intensidade da corrente elétrica em circuitos.
 
 ## Circuito no Falstad
-Clique [aqui] para acessar o simulador do circuito.
+Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito.
+![image](https://user-images.githubusercontent.com/110194295/182157687-5cb9467f-244c-4408-8ff7-5a813cbcbaed.png)
 
 ## Circuito no Eagle
 #### ESQUEMÁTICO
