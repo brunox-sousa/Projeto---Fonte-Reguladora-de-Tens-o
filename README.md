@@ -85,8 +85,8 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 
 ## Cálculos
 
-|Cálculos tensão elétrica|
-|------------------------|
+##|Cálculos tensão elétrica|
+##|------------------------|
 
 
 ![image](https://user-images.githubusercontent.com/110194295/182062733-424f7300-8b65-4b87-83dc-28815466f454.png)
