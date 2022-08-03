@@ -132,7 +132,8 @@ Cálculos da resistência elétrica da carga.
 
 No cálculo da capacitância, f é igual a 120 Hz, sendo que a saída da frequência é o dobro da entrada para uma retificação de onda completa em ponte.
 
-![correçao7](https://user-images.githubusercontent.com/102570129/182645663-e01d93fc-bd28-4830-bbb5-8153c0994bd4.png)
+
+![correçao9](https://user-images.githubusercontent.com/102570129/182658356-eacf76a8-6e9a-45d5-983c-efb3b1053397.png)
 
 
 O resultado da capacitância foi aproximadamente 449,04 uF, utilizamos um capacitor de 470 uF por ser o primeiro valor comercial acima da capacitância mínima para um valor de ripple de 10%.
