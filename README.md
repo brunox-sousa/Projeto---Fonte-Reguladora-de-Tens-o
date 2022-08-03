@@ -47,11 +47,15 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 ![image](https://user-images.githubusercontent.com/110194295/182032220-3c0c380b-916b-4055-a38d-6e59ba4621fd.png)
 
 ## Cálculos
+
+---------------------------------------- Cálculos tensão elétrica ----------------------------------
 ![image](https://user-images.githubusercontent.com/110194295/182062733-424f7300-8b65-4b87-83dc-28815466f454.png)
 
 ![correçao1](https://user-images.githubusercontent.com/102570129/182645445-a0bc7136-9196-4aba-b2fd-37c9a6d67a20.png)
 
 ![correçao2](https://user-images.githubusercontent.com/102570129/182645498-8666deb6-4a51-41b4-804e-1b9fd9844ed8.png)
+
+---------------------------------------- Cálculos corrente elétrica ----------------------------------
 
 ![correçao3](https://user-images.githubusercontent.com/102570129/182645540-ae68d785-2402-482f-bf11-2a388a639ba0.png)
 
@@ -60,6 +64,8 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 ![correçao5](https://user-images.githubusercontent.com/102570129/182645603-1f6eed02-96bf-43e5-93b3-63c2d180e6b1.png)
 
 ![correçao6](https://user-images.githubusercontent.com/102570129/182645636-b52ea0f1-13f8-499d-982d-ebd3d6a2e3e5.png)
+
+---------------------------------------- Cálculos capacitor ----------------------------------
 
 ![correçao7](https://user-images.githubusercontent.com/102570129/182645663-e01d93fc-bd28-4830-bbb5-8153c0994bd4.png)
 
