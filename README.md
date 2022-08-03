@@ -91,9 +91,16 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 
 ![image](https://user-images.githubusercontent.com/110194295/182062733-424f7300-8b65-4b87-83dc-28815466f454.png)
 
+A fonte de corrente alternada é definida pelo valor de 127 RMS (Root Mean Square) representando uma tomada comum. 
+A voltagem de pico é calculada com a medida a partir do eixo horizontal até a parte superior da onda.
+
 ![correçao1](https://user-images.githubusercontent.com/102570129/182645445-a0bc7136-9196-4aba-b2fd-37c9a6d67a20.png)
 
+Tensão elétrica calculada na saída da ponte de diodos de sílicio (ocorre a queda de 0.7V quando a corrente passa por um diodo, no circuito a corrente passa por dois diodos ao mesmo tempo, gerando duas quedas de 0.7V e obtendo o valor de 1.4V).
+
 ![correçao2](https://user-images.githubusercontent.com/102570129/182645498-8666deb6-4a51-41b4-804e-1b9fd9844ed8.png)
+
+
 
 |Cálculos corrente elétrica|
 |--------------------------|
