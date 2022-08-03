@@ -48,7 +48,7 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 
 ## Cálculos
 
----------------------------------------- Cálculos tensão elétrica ----------------------------------
+##---------------------------------------- Cálculos tensão elétrica ----------------------------------
 
 
 ![image](https://user-images.githubusercontent.com/110194295/182062733-424f7300-8b65-4b87-83dc-28815466f454.png)
@@ -57,7 +57,7 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 
 ![correçao2](https://user-images.githubusercontent.com/102570129/182645498-8666deb6-4a51-41b4-804e-1b9fd9844ed8.png)
 
--------------------------------------- Cálculos corrente elétrica ----------------------------------
+##-------------------------------------- Cálculos corrente elétrica ----------------------------------
 
 
 
@@ -69,7 +69,7 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 
 ![correçao6](https://user-images.githubusercontent.com/102570129/182645636-b52ea0f1-13f8-499d-982d-ebd3d6a2e3e5.png)
 
----------------------------------------- Cálculos capacitor ----------------------------------------
+##---------------------------------------- Cálculos capacitor ----------------------------------------
 
 
 
