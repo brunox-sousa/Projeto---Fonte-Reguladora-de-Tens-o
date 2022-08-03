@@ -49,19 +49,20 @@ Clique [aqui](https://tinyurl.com/23vrahcq) para acessar o simulador do circuito
 ## Cálculos
 ![image](https://user-images.githubusercontent.com/110194295/182062733-424f7300-8b65-4b87-83dc-28815466f454.png)
 
-![image](https://user-images.githubusercontent.com/110194295/182062795-dbb1f197-3781-4426-8972-95e1a8302b59.png)
+![correçao1](https://user-images.githubusercontent.com/102570129/182645445-a0bc7136-9196-4aba-b2fd-37c9a6d67a20.png)
 
-![image](https://user-images.githubusercontent.com/110194295/182062844-801c1442-2378-4a80-b296-a1b4dfeb2987.png)
+![correçao2](https://user-images.githubusercontent.com/102570129/182645498-8666deb6-4a51-41b4-804e-1b9fd9844ed8.png)
 
-![image](https://user-images.githubusercontent.com/110194295/182062882-c6d2f7b5-be3c-444d-9eeb-636303889e4d.png)
+![correçao3](https://user-images.githubusercontent.com/102570129/182645540-ae68d785-2402-482f-bf11-2a388a639ba0.png)
 
-![image](https://user-images.githubusercontent.com/110194295/182062938-5bca1e00-affa-4714-a9d4-b5c86aca256e.png)
+![correçao4](https://user-images.githubusercontent.com/102570129/182645567-35f9d6b9-abaa-4fad-85dd-cbb62803d1d3.png)
 
-![image](https://user-images.githubusercontent.com/110194295/182062960-e11ce317-69ef-482b-a0a4-4e72ffa0e95e.png)
+![correçao5](https://user-images.githubusercontent.com/102570129/182645603-1f6eed02-96bf-43e5-93b3-63c2d180e6b1.png)
 
-![image](https://user-images.githubusercontent.com/110194295/182063082-70365d61-22fe-4733-8033-bd3c659df753.png)
+![correçao6](https://user-images.githubusercontent.com/102570129/182645636-b52ea0f1-13f8-499d-982d-ebd3d6a2e3e5.png)
 
-![image](https://user-images.githubusercontent.com/110194295/182063142-ee391f97-7702-45a4-a69b-a15086605860.png)
+![correçao7](https://user-images.githubusercontent.com/102570129/182645663-e01d93fc-bd28-4830-bbb5-8153c0994bd4.png)
+
 
 ## Imagens da Protoboard com o Circuito Montado
 <a href="url"><img src="https://user-images.githubusercontent.com/102570129/182054968-985940d6-9b80-48c1-acee-eb616a9a944a.jpg" align="left" height="600" width="400" ></a>
