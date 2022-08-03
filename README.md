@@ -21,7 +21,7 @@
 Elaborada a partir de quatro diodos, essa estrutura funciona como um circuito que converte uma corrente alternada (valor da tensão varia entre positivo e negativo) em corrente contínua (valor da tensão se mantém positivo), de modo a torná-la útil para o funcionamento de diferentes aparelhos;
 ### Capacitor:
 Dispositivo cuja principal função consiste em armazenar cargas elétricas, de maneira a armazenar elétrons quando a tensão sobe e liberá-los para o restante do circuito quando a tensão desce (libera corrente quando a tensão interna é menor que a tensão da sua própria estrutura). Esse processo auxilia na diminuição da taxa de ripple;
-###LED:
+### LED:
 Auxilia no funcionamento do circuito - indica se a fonte a fonte está ligada;
 ### Resistores:
 Limitam a passagem (intensidade) de corrente elétrica a fim de evitar a danificação dos componentes do circuito;
