@@ -32,8 +32,41 @@ Utilizado no ajuste de tensão de ruptura do circuito.  Quando está polarizado 
 ### Transistor:
 Utilizado para amplificar ou atenuar a intensidade da corrente elétrica em circuitos.
 
-## Etapas
+## Etapas da fonte
 
+## Transformação
+
+![50](https://user-images.githubusercontent.com/102570129/182647829-498c49b5-bd4e-4a82-8535-ebc7b4c46b57.png)
+
+
+Na etapa de transformação é utilizado o transformador para reduzir a diferença de potencial elétrico. A fonte de corrente alternada, que no caso é uma tomada comum de 127 Volts é reduzida para um valor que é mais apropriado para o circuito e garante uma fonte estável, no projeto foi usado um transformador de 24 Volts.
+Com os cálculos, podemos perceber que a tensão elétrica máxima dessa fonte é 127 vezes raiz de 2 = 179,6 Volts e a tensão de pico é 24 vezes raiz de 2 = 33,94 Volts.
+
+## Retificação
+
+![05-1](https://user-images.githubusercontent.com/102570129/182647906-8cb85a5f-d465-4933-b308-4492c8417ad3.png)
+
+![img fonte](https://user-images.githubusercontent.com/102570129/182648392-18a7fe21-a47d-4b28-90e4-2390da4d11ae.png)
+
+
+Na etapa de retificação ocorre a conversão de energia alternada para a contínua, é composta por uma ponte de diodos e permite o aproveitamento dos dois semiciclos da tensão de alimentação da carga, esse processo é denominado como retificação de onda completa.
+Cada diodo utilizado consome 0,7 Volts de tensão, utilizando 24 Volts no circuito, temos os cálculos de tensão elétrica do diodo máximo, quando a corrente passa por um diodo há uma queda de 0,7 Volts, no circuito passa por dois diodos ao mesmo tempo resultando em 1,4 Volts. 
+
+## Filtragem
+
+![06-1](https://user-images.githubusercontent.com/102570129/182648050-cb2a3c4d-8795-4525-97da-a63ab330a7d7.png)
+
+
+![02-2](https://user-images.githubusercontent.com/102570129/182648230-3c3e029e-27b5-42f1-b4c9-22b27d90f328.png)
+
+Na etapa de filtragem é utilizado o capacitor para fazer com que o sinal pulsante fique o mais próximo possível de um sinal linear de corrente contínua, a função do capacitor nessa etapa é liberar corrente quando a tensão elétrica interna é menor que a tensão da sua própria estrutura, fazendo com que ocorra uma diminuição no valor do Ripple. E quanto menor o Ripple melhor é a fonte de alimentação. Para os cálculos foi determinado em até 10%.
+
+## Regulação
+
+![07_02](https://user-images.githubusercontent.com/102570129/182648294-16f2c754-ea98-46bb-bd60-a41323ccda33.png)
+
+A última etapa é a regulação onde deve-se tornar o máximo possível a saída da fonte na tensão de forma linear, com isso é possível estabilizar variações na corrente e temperaturas por mais estáveis que sejam na entrada do regulador. Nessa etapa é utilizado o diodo zener e quando está polarizado diretamente, funciona como outro diodo qualquer, não conduz corrente elétrica enquanto a tensão aplicada aos seus terminais for acima de 13V. 
+Sendo assim, o resistor tem a função de determinar a corrente que passará pelo diodo zener e por ser uma fonte de tensão ajustável o potenciômetro controla a tensão através da queda de potencial conforme o valor de saída determinada.
 
 
 ## Circuito no Falstad
